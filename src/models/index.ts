@@ -1,1 +1,1 @@
-export {Model} from "./token"
+export {Model} from "./Token"
